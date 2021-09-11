@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../19.3-activities"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../18.3-activities"
+		},
+		{
+			"path": "../../19.1-activities (1)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UX_UI_HW_18"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../18.2-activities/solved"
+		},
+		{
+			"path": "../../../19.1-activities"
+		},
+		{
+			"path": "../../../18.2-activities/solved"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "solved"
+	}
+}
